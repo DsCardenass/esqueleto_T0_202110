@@ -1,3 +1,3 @@
-Dionny Santiago Cárdenas Salazar
-Tecer Semestre
+Dionny S. Cárdenas Salazar
+Tercer Semestre
 201921484
