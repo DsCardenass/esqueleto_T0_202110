@@ -38,7 +38,7 @@ public class TestArregloDinamico
 	{
 		setUp1();
 		setUp2();
-		assertEquals( "prueba4" , arreglo.buscar("prueba4"));
+		assertEquals( "prueba4" , arreglo.darElemento(4));
 	}
 
 }
